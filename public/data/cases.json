@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "al-case-001",
+    "title": "高数概念案例1",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003243",
+      "al-q-002203",
+      "al-q-002911"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-002",
+    "title": "英语单词案例2",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001730",
+      "al-q-002416",
+      "al-q-000995"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-003",
+    "title": "C语言调试案例3",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003338",
+      "al-q-001835",
+      "al-q-001025"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-004",
+    "title": "数字逻辑复习案例4",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002899",
+      "al-q-001349",
+      "al-q-001757"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-005",
+    "title": "操作系统解释案例5",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001770",
+      "al-q-002518",
+      "al-q-001553"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-006",
+    "title": "算法题提示案例6",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000779",
+      "al-q-001539",
+      "al-q-002929"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-007",
+    "title": "Java项目拆解案例7",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001371",
+      "al-q-000320",
+      "al-q-002913"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-008",
+    "title": "前端组件学习案例8",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000346",
+      "al-q-001190",
+      "al-q-001603"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-009",
+    "title": "数据分析报告案例9",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003165",
+      "al-q-000105",
+      "al-q-000822"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-010",
+    "title": "RAG项目学习案例10",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002421",
+      "al-q-000163",
+      "al-q-000429"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-011",
+    "title": "错题复盘Prompt案例11",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001662",
+      "al-q-002818",
+      "al-q-001744"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-012",
+    "title": "学习计划Prompt案例12",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000889",
+      "al-q-002231",
+      "al-q-003163"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-013",
+    "title": "知识卡片生成案例13",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002027",
+      "al-q-003063",
+      "al-q-003088"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-014",
+    "title": "AI笔记整理案例14",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003017",
+      "al-q-001715",
+      "al-q-002798"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-015",
+    "title": "事实核查案例15",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000344",
+      "al-q-002790",
+      "al-q-001356"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-016",
+    "title": "幻觉识别案例16",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000848",
+      "al-q-002006",
+      "al-q-000447"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-017",
+    "title": "学术诚信案例17",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002326",
+      "al-q-001629",
+      "al-q-001713"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-018",
+    "title": "AI依赖修正案例18",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002835",
+      "al-q-001490",
+      "al-q-002465"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-019",
+    "title": "个人AI工作流案例19",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000865",
+      "al-q-002482",
+      "al-q-001457"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-020",
+    "title": "高数概念案例20",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001126",
+      "al-q-000784",
+      "al-q-000058"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-021",
+    "title": "英语单词案例21",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001772",
+      "al-q-003488",
+      "al-q-001689"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-022",
+    "title": "C语言调试案例22",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002924",
+      "al-q-003010",
+      "al-q-001432"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-023",
+    "title": "数字逻辑复习案例23",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000437",
+      "al-q-002567",
+      "al-q-001836"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-024",
+    "title": "操作系统解释案例24",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001798",
+      "al-q-002288",
+      "al-q-000418"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-025",
+    "title": "算法题提示案例25",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002954",
+      "al-q-000098",
+      "al-q-003221"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-026",
+    "title": "Java项目拆解案例26",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003026",
+      "al-q-000177",
+      "al-q-002554"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-027",
+    "title": "前端组件学习案例27",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001920",
+      "al-q-001017",
+      "al-q-000207"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-028",
+    "title": "数据分析报告案例28",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000415",
+      "al-q-001115",
+      "al-q-000198"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-029",
+    "title": "RAG项目学习案例29",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002223",
+      "al-q-001340",
+      "al-q-002740"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-030",
+    "title": "错题复盘Prompt案例30",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000501",
+      "al-q-001648",
+      "al-q-002795"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-031",
+    "title": "学习计划Prompt案例31",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000134",
+      "al-q-000201",
+      "al-q-002171"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-032",
+    "title": "知识卡片生成案例32",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002292",
+      "al-q-002284",
+      "al-q-001792"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-033",
+    "title": "AI笔记整理案例33",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002101",
+      "al-q-001651",
+      "al-q-003244"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-034",
+    "title": "事实核查案例34",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002054",
+      "al-q-000517",
+      "al-q-001820"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-035",
+    "title": "幻觉识别案例35",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003217",
+      "al-q-000642",
+      "al-q-000508"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-036",
+    "title": "学术诚信案例36",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000849",
+      "al-q-002097",
+      "al-q-003322"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-037",
+    "title": "AI依赖修正案例37",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002770",
+      "al-q-002832",
+      "al-q-003491"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-038",
+    "title": "个人AI工作流案例38",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000492",
+      "al-q-002325",
+      "al-q-001893"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-039",
+    "title": "高数概念案例39",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001307",
+      "al-q-002975",
+      "al-q-000018"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-040",
+    "title": "英语单词案例40",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001283",
+      "al-q-002720",
+      "al-q-003124"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-041",
+    "title": "C语言调试案例41",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002875",
+      "al-q-003300",
+      "al-q-000431"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-042",
+    "title": "数字逻辑复习案例42",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001254",
+      "al-q-000682",
+      "al-q-001314"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-043",
+    "title": "操作系统解释案例43",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001565",
+      "al-q-000613",
+      "al-q-002405"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-044",
+    "title": "算法题提示案例44",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002402",
+      "al-q-001136",
+      "al-q-000113"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-045",
+    "title": "Java项目拆解案例45",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003379",
+      "al-q-001118",
+      "al-q-002203"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-046",
+    "title": "前端组件学习案例46",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001479",
+      "al-q-002372",
+      "al-q-001162"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-047",
+    "title": "数据分析报告案例47",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001694",
+      "al-q-000711",
+      "al-q-003264"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-048",
+    "title": "RAG项目学习案例48",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003427",
+      "al-q-003305",
+      "al-q-003153"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-049",
+    "title": "错题复盘Prompt案例49",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002639",
+      "al-q-002227",
+      "al-q-002085"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-050",
+    "title": "学习计划Prompt案例50",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003256",
+      "al-q-001601",
+      "al-q-000668"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-051",
+    "title": "知识卡片生成案例51",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002596",
+      "al-q-002213",
+      "al-q-001462"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-052",
+    "title": "AI笔记整理案例52",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001887",
+      "al-q-001952",
+      "al-q-002864"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-053",
+    "title": "事实核查案例53",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000550",
+      "al-q-003485",
+      "al-q-000350"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-054",
+    "title": "幻觉识别案例54",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000751",
+      "al-q-001307",
+      "al-q-000618"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-055",
+    "title": "学术诚信案例55",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003030",
+      "al-q-002687",
+      "al-q-001047"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-056",
+    "title": "AI依赖修正案例56",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002238",
+      "al-q-002681",
+      "al-q-002472"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-057",
+    "title": "个人AI工作流案例57",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000779",
+      "al-q-001883",
+      "al-q-001117"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-058",
+    "title": "高数概念案例58",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001704",
+      "al-q-001316",
+      "al-q-001033"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-059",
+    "title": "英语单词案例59",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001408",
+      "al-q-003149",
+      "al-q-000503"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-060",
+    "title": "C语言调试案例60",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003108",
+      "al-q-000125",
+      "al-q-003465"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-061",
+    "title": "数字逻辑复习案例61",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000914",
+      "al-q-002015",
+      "al-q-001860"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-062",
+    "title": "操作系统解释案例62",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000879",
+      "al-q-001483",
+      "al-q-000547"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-063",
+    "title": "算法题提示案例63",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002047",
+      "al-q-001811",
+      "al-q-000832"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-064",
+    "title": "Java项目拆解案例64",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003056",
+      "al-q-003216",
+      "al-q-002957"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-065",
+    "title": "前端组件学习案例65",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000910",
+      "al-q-001229",
+      "al-q-001783"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-066",
+    "title": "数据分析报告案例66",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001463",
+      "al-q-002399",
+      "al-q-000498"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-067",
+    "title": "RAG项目学习案例67",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000842",
+      "al-q-003234",
+      "al-q-002551"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-068",
+    "title": "错题复盘Prompt案例68",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002758",
+      "al-q-001900",
+      "al-q-000053"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-069",
+    "title": "学习计划Prompt案例69",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001105",
+      "al-q-002086",
+      "al-q-002177"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-070",
+    "title": "知识卡片生成案例70",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002605",
+      "al-q-001263",
+      "al-q-002604"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-071",
+    "title": "AI笔记整理案例71",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000283",
+      "al-q-001421",
+      "al-q-000582"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-072",
+    "title": "事实核查案例72",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000818",
+      "al-q-001098",
+      "al-q-002158"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-073",
+    "title": "幻觉识别案例73",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000269",
+      "al-q-001501",
+      "al-q-002421"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-074",
+    "title": "学术诚信案例74",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002794",
+      "al-q-002211",
+      "al-q-001404"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-075",
+    "title": "AI依赖修正案例75",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001614",
+      "al-q-003243",
+      "al-q-002998"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-076",
+    "title": "个人AI工作流案例76",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002025",
+      "al-q-002939",
+      "al-q-001680"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-077",
+    "title": "高数概念案例77",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002471",
+      "al-q-000532",
+      "al-q-003336"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-078",
+    "title": "英语单词案例78",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000989",
+      "al-q-003296",
+      "al-q-001318"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-079",
+    "title": "C语言调试案例79",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003111",
+      "al-q-002903",
+      "al-q-001326"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-080",
+    "title": "数字逻辑复习案例80",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003056",
+      "al-q-001795",
+      "al-q-002624"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-081",
+    "title": "操作系统解释案例81",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003439",
+      "al-q-002739",
+      "al-q-001728"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-082",
+    "title": "算法题提示案例82",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001247",
+      "al-q-003404",
+      "al-q-003079"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-083",
+    "title": "Java项目拆解案例83",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002459",
+      "al-q-002769",
+      "al-q-000839"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-084",
+    "title": "前端组件学习案例84",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002300",
+      "al-q-002818",
+      "al-q-002188"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-085",
+    "title": "数据分析报告案例85",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001039",
+      "al-q-000357",
+      "al-q-000815"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-086",
+    "title": "RAG项目学习案例86",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000814",
+      "al-q-000155",
+      "al-q-002313"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-087",
+    "title": "错题复盘Prompt案例87",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001201",
+      "al-q-001262",
+      "al-q-002785"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-088",
+    "title": "学习计划Prompt案例88",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002447",
+      "al-q-001438",
+      "al-q-001854"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-089",
+    "title": "知识卡片生成案例89",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001412",
+      "al-q-002915",
+      "al-q-002061"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-090",
+    "title": "AI笔记整理案例90",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003496",
+      "al-q-000200",
+      "al-q-003165"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-091",
+    "title": "事实核查案例91",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001734",
+      "al-q-000046",
+      "al-q-003446"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-092",
+    "title": "幻觉识别案例92",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003489",
+      "al-q-003287",
+      "al-q-001224"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-093",
+    "title": "学术诚信案例93",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002522",
+      "al-q-001367",
+      "al-q-001039"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-094",
+    "title": "AI依赖修正案例94",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002190",
+      "al-q-000826",
+      "al-q-002559"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-095",
+    "title": "个人AI工作流案例95",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001825",
+      "al-q-001745",
+      "al-q-000862"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-096",
+    "title": "高数概念案例96",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002289",
+      "al-q-002209",
+      "al-q-001900"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-097",
+    "title": "英语单词案例97",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003381",
+      "al-q-001579",
+      "al-q-002775"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-098",
+    "title": "C语言调试案例98",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000915",
+      "al-q-003162",
+      "al-q-001241"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-099",
+    "title": "数字逻辑复习案例99",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000635",
+      "al-q-002301",
+      "al-q-002411"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-100",
+    "title": "操作系统解释案例100",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000419",
+      "al-q-003146",
+      "al-q-000806"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-101",
+    "title": "算法题提示案例101",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001075",
+      "al-q-000254",
+      "al-q-002602"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-102",
+    "title": "Java项目拆解案例102",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003455",
+      "al-q-002844",
+      "al-q-001674"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-103",
+    "title": "前端组件学习案例103",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001853",
+      "al-q-002864",
+      "al-q-001214"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-104",
+    "title": "数据分析报告案例104",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001763",
+      "al-q-002749",
+      "al-q-002307"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-105",
+    "title": "RAG项目学习案例105",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002713",
+      "al-q-002483",
+      "al-q-002928"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-106",
+    "title": "错题复盘Prompt案例106",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000526",
+      "al-q-002324",
+      "al-q-001632"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-107",
+    "title": "学习计划Prompt案例107",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000872",
+      "al-q-001930",
+      "al-q-000186"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-108",
+    "title": "知识卡片生成案例108",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001463",
+      "al-q-001384",
+      "al-q-001258"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-109",
+    "title": "AI笔记整理案例109",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003401",
+      "al-q-000036",
+      "al-q-000668"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-110",
+    "title": "事实核查案例110",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002850",
+      "al-q-002820",
+      "al-q-000309"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-111",
+    "title": "幻觉识别案例111",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001085",
+      "al-q-002144",
+      "al-q-000508"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-112",
+    "title": "学术诚信案例112",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000446",
+      "al-q-001169",
+      "al-q-000057"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-113",
+    "title": "AI依赖修正案例113",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001953",
+      "al-q-000109",
+      "al-q-000326"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-114",
+    "title": "个人AI工作流案例114",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001951",
+      "al-q-000991",
+      "al-q-002423"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-115",
+    "title": "高数概念案例115",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002682",
+      "al-q-001524",
+      "al-q-000474"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-116",
+    "title": "英语单词案例116",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002903",
+      "al-q-003033",
+      "al-q-000820"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-117",
+    "title": "C语言调试案例117",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002407",
+      "al-q-003369",
+      "al-q-003127"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-118",
+    "title": "数字逻辑复习案例118",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000812",
+      "al-q-001002",
+      "al-q-002560"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-119",
+    "title": "操作系统解释案例119",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001862",
+      "al-q-002769",
+      "al-q-000098"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-120",
+    "title": "算法题提示案例120",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001753",
+      "al-q-000775",
+      "al-q-000767"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-121",
+    "title": "Java项目拆解案例121",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000993",
+      "al-q-000360",
+      "al-q-000096"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-122",
+    "title": "前端组件学习案例122",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000586",
+      "al-q-002304",
+      "al-q-002443"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-123",
+    "title": "数据分析报告案例123",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002181",
+      "al-q-002975",
+      "al-q-002046"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-124",
+    "title": "RAG项目学习案例124",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002251",
+      "al-q-002729",
+      "al-q-002087"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-125",
+    "title": "错题复盘Prompt案例125",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003315",
+      "al-q-001899",
+      "al-q-002952"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-126",
+    "title": "学习计划Prompt案例126",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001316",
+      "al-q-001741",
+      "al-q-003451"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-127",
+    "title": "知识卡片生成案例127",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002917",
+      "al-q-001441",
+      "al-q-001462"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-128",
+    "title": "AI笔记整理案例128",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003230",
+      "al-q-002181",
+      "al-q-002791"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-129",
+    "title": "事实核查案例129",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003261",
+      "al-q-002173",
+      "al-q-001764"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-130",
+    "title": "幻觉识别案例130",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000334",
+      "al-q-000112",
+      "al-q-000195"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-131",
+    "title": "学术诚信案例131",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000746",
+      "al-q-001157",
+      "al-q-000654"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-132",
+    "title": "AI依赖修正案例132",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000548",
+      "al-q-003194",
+      "al-q-003441"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-133",
+    "title": "个人AI工作流案例133",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002908",
+      "al-q-001118",
+      "al-q-000906"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-134",
+    "title": "高数概念案例134",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001513",
+      "al-q-002950",
+      "al-q-002228"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-135",
+    "title": "英语单词案例135",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001360",
+      "al-q-000786",
+      "al-q-001024"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-136",
+    "title": "C语言调试案例136",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002673",
+      "al-q-002163",
+      "al-q-001628"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-137",
+    "title": "数字逻辑复习案例137",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001310",
+      "al-q-000035",
+      "al-q-001412"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-138",
+    "title": "操作系统解释案例138",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001469",
+      "al-q-002509",
+      "al-q-002037"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-139",
+    "title": "算法题提示案例139",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000378",
+      "al-q-002312",
+      "al-q-002484"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-140",
+    "title": "Java项目拆解案例140",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000081",
+      "al-q-003177",
+      "al-q-000884"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-141",
+    "title": "前端组件学习案例141",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003199",
+      "al-q-001774",
+      "al-q-001044"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-142",
+    "title": "数据分析报告案例142",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001255",
+      "al-q-001725",
+      "al-q-001826"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-143",
+    "title": "RAG项目学习案例143",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002203",
+      "al-q-001947",
+      "al-q-001957"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-144",
+    "title": "错题复盘Prompt案例144",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000168",
+      "al-q-003225",
+      "al-q-002313"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-145",
+    "title": "学习计划Prompt案例145",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000010",
+      "al-q-000104",
+      "al-q-002807"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-146",
+    "title": "知识卡片生成案例146",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003195",
+      "al-q-001177",
+      "al-q-002179"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-147",
+    "title": "AI笔记整理案例147",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000314",
+      "al-q-002087",
+      "al-q-001033"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-148",
+    "title": "事实核查案例148",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002569",
+      "al-q-002726",
+      "al-q-001725"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-149",
+    "title": "幻觉识别案例149",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000862",
+      "al-q-001308",
+      "al-q-001578"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-150",
+    "title": "学术诚信案例150",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002666",
+      "al-q-001957",
+      "al-q-001536"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-151",
+    "title": "AI依赖修正案例151",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000725",
+      "al-q-002304",
+      "al-q-003445"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-152",
+    "title": "个人AI工作流案例152",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003363",
+      "al-q-002623",
+      "al-q-000067"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-153",
+    "title": "高数概念案例153",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003064",
+      "al-q-002119",
+      "al-q-001316"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-154",
+    "title": "英语单词案例154",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002860",
+      "al-q-002532",
+      "al-q-003127"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-155",
+    "title": "C语言调试案例155",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001314",
+      "al-q-002452",
+      "al-q-000524"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-156",
+    "title": "数字逻辑复习案例156",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001959",
+      "al-q-002290",
+      "al-q-002242"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-157",
+    "title": "操作系统解释案例157",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001580",
+      "al-q-000378",
+      "al-q-003280"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-158",
+    "title": "算法题提示案例158",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000663",
+      "al-q-001406",
+      "al-q-000426"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-159",
+    "title": "Java项目拆解案例159",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001645",
+      "al-q-003224",
+      "al-q-003175"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-160",
+    "title": "前端组件学习案例160",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002346",
+      "al-q-000424",
+      "al-q-000093"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-161",
+    "title": "数据分析报告案例161",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000095",
+      "al-q-002100",
+      "al-q-000438"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-162",
+    "title": "RAG项目学习案例162",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001731",
+      "al-q-002251",
+      "al-q-001676"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-163",
+    "title": "错题复盘Prompt案例163",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000225",
+      "al-q-001478",
+      "al-q-000885"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-164",
+    "title": "学习计划Prompt案例164",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001167",
+      "al-q-001131",
+      "al-q-003488"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-165",
+    "title": "知识卡片生成案例165",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002079",
+      "al-q-001664",
+      "al-q-000377"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-166",
+    "title": "AI笔记整理案例166",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000827",
+      "al-q-001926",
+      "al-q-003111"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-167",
+    "title": "事实核查案例167",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001111",
+      "al-q-002925",
+      "al-q-002183"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-168",
+    "title": "幻觉识别案例168",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000598",
+      "al-q-002799",
+      "al-q-001143"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-169",
+    "title": "学术诚信案例169",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002462",
+      "al-q-001773",
+      "al-q-001697"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-170",
+    "title": "AI依赖修正案例170",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001841",
+      "al-q-000243",
+      "al-q-003011"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-171",
+    "title": "个人AI工作流案例171",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002752",
+      "al-q-002897",
+      "al-q-002733"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-172",
+    "title": "高数概念案例172",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002391",
+      "al-q-000387",
+      "al-q-000727"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-173",
+    "title": "英语单词案例173",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002690",
+      "al-q-003030",
+      "al-q-001729"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-174",
+    "title": "C语言调试案例174",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001130",
+      "al-q-000455",
+      "al-q-000597"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-175",
+    "title": "数字逻辑复习案例175",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001467",
+      "al-q-002111",
+      "al-q-002752"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-176",
+    "title": "操作系统解释案例176",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002610",
+      "al-q-000670",
+      "al-q-001897"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-177",
+    "title": "算法题提示案例177",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001451",
+      "al-q-002544",
+      "al-q-001104"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-178",
+    "title": "Java项目拆解案例178",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000434",
+      "al-q-000914",
+      "al-q-002249"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-179",
+    "title": "前端组件学习案例179",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002412",
+      "al-q-000114",
+      "al-q-003266"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-180",
+    "title": "数据分析报告案例180",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001566",
+      "al-q-000938",
+      "al-q-000607"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-181",
+    "title": "RAG项目学习案例181",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001857",
+      "al-q-003456",
+      "al-q-002346"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-182",
+    "title": "错题复盘Prompt案例182",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001978",
+      "al-q-000388",
+      "al-q-000711"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-183",
+    "title": "学习计划Prompt案例183",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001234",
+      "al-q-002893",
+      "al-q-001406"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-184",
+    "title": "知识卡片生成案例184",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001468",
+      "al-q-000611",
+      "al-q-003290"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-185",
+    "title": "AI笔记整理案例185",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003043",
+      "al-q-002031",
+      "al-q-003215"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-186",
+    "title": "事实核查案例186",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000220",
+      "al-q-000030",
+      "al-q-000682"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-187",
+    "title": "幻觉识别案例187",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001973",
+      "al-q-002256",
+      "al-q-000943"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-188",
+    "title": "学术诚信案例188",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000938",
+      "al-q-002932",
+      "al-q-001372"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-189",
+    "title": "AI依赖修正案例189",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001957",
+      "al-q-001563",
+      "al-q-000745"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-190",
+    "title": "个人AI工作流案例190",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000339",
+      "al-q-002290",
+      "al-q-001762"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-191",
+    "title": "高数概念案例191",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000524",
+      "al-q-000449",
+      "al-q-002461"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-192",
+    "title": "英语单词案例192",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002415",
+      "al-q-001851",
+      "al-q-001385"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-193",
+    "title": "C语言调试案例193",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002651",
+      "al-q-002606",
+      "al-q-002374"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-194",
+    "title": "数字逻辑复习案例194",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002588",
+      "al-q-000284",
+      "al-q-002840"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-195",
+    "title": "操作系统解释案例195",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002631",
+      "al-q-002620",
+      "al-q-001310"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-196",
+    "title": "算法题提示案例196",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001463",
+      "al-q-001828",
+      "al-q-000548"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-197",
+    "title": "Java项目拆解案例197",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003165",
+      "al-q-002950",
+      "al-q-002194"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-198",
+    "title": "前端组件学习案例198",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002994",
+      "al-q-003302",
+      "al-q-001860"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-199",
+    "title": "数据分析报告案例199",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003167",
+      "al-q-001865",
+      "al-q-003197"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-200",
+    "title": "RAG项目学习案例200",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000906",
+      "al-q-002545",
+      "al-q-000524"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-201",
+    "title": "错题复盘Prompt案例201",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003359",
+      "al-q-001269",
+      "al-q-000720"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-202",
+    "title": "学习计划Prompt案例202",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000954",
+      "al-q-002566",
+      "al-q-001064"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-203",
+    "title": "知识卡片生成案例203",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002114",
+      "al-q-002199",
+      "al-q-000211"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-204",
+    "title": "AI笔记整理案例204",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001383",
+      "al-q-001397",
+      "al-q-002157"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-205",
+    "title": "事实核查案例205",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003453",
+      "al-q-000922",
+      "al-q-000074"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-206",
+    "title": "幻觉识别案例206",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002666",
+      "al-q-002145",
+      "al-q-000996"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-207",
+    "title": "学术诚信案例207",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001618",
+      "al-q-000660",
+      "al-q-001096"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-208",
+    "title": "AI依赖修正案例208",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000185",
+      "al-q-002263",
+      "al-q-001081"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-209",
+    "title": "个人AI工作流案例209",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000136",
+      "al-q-000254",
+      "al-q-000393"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-210",
+    "title": "高数概念案例210",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003226",
+      "al-q-000730",
+      "al-q-000477"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-211",
+    "title": "英语单词案例211",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000895",
+      "al-q-002270",
+      "al-q-001448"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-212",
+    "title": "C语言调试案例212",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001694",
+      "al-q-002584",
+      "al-q-002909"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-213",
+    "title": "数字逻辑复习案例213",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000604",
+      "al-q-000388",
+      "al-q-000598"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-214",
+    "title": "操作系统解释案例214",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003346",
+      "al-q-001000",
+      "al-q-002670"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-215",
+    "title": "算法题提示案例215",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001395",
+      "al-q-001661",
+      "al-q-002179"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-216",
+    "title": "Java项目拆解案例216",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000710",
+      "al-q-000699",
+      "al-q-002841"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-217",
+    "title": "前端组件学习案例217",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002972",
+      "al-q-001570",
+      "al-q-001735"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-218",
+    "title": "数据分析报告案例218",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000592",
+      "al-q-003206",
+      "al-q-002537"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-219",
+    "title": "RAG项目学习案例219",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002244",
+      "al-q-001650",
+      "al-q-000609"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-220",
+    "title": "错题复盘Prompt案例220",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000198",
+      "al-q-003046",
+      "al-q-003276"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-221",
+    "title": "学习计划Prompt案例221",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000668",
+      "al-q-002979",
+      "al-q-002815"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-222",
+    "title": "知识卡片生成案例222",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002919",
+      "al-q-001739",
+      "al-q-003016"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-223",
+    "title": "AI笔记整理案例223",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000247",
+      "al-q-003360",
+      "al-q-001468"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-224",
+    "title": "事实核查案例224",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002539",
+      "al-q-002453",
+      "al-q-001555"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-225",
+    "title": "幻觉识别案例225",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002452",
+      "al-q-001379",
+      "al-q-002245"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-226",
+    "title": "学术诚信案例226",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001830",
+      "al-q-003464",
+      "al-q-000421"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-227",
+    "title": "AI依赖修正案例227",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000242",
+      "al-q-000958",
+      "al-q-001456"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-228",
+    "title": "个人AI工作流案例228",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003500",
+      "al-q-000430",
+      "al-q-003369"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-229",
+    "title": "高数概念案例229",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001916",
+      "al-q-002759",
+      "al-q-000908"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-230",
+    "title": "英语单词案例230",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002178",
+      "al-q-000185",
+      "al-q-000469"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-231",
+    "title": "C语言调试案例231",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000850",
+      "al-q-001995",
+      "al-q-002704"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-232",
+    "title": "数字逻辑复习案例232",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002127",
+      "al-q-000455",
+      "al-q-001683"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-233",
+    "title": "操作系统解释案例233",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003051",
+      "al-q-003089",
+      "al-q-003239"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-234",
+    "title": "算法题提示案例234",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002006",
+      "al-q-003336",
+      "al-q-000527"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-235",
+    "title": "Java项目拆解案例235",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001362",
+      "al-q-000878",
+      "al-q-000557"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-236",
+    "title": "前端组件学习案例236",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000667",
+      "al-q-002972",
+      "al-q-000339"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-237",
+    "title": "数据分析报告案例237",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001554",
+      "al-q-001320",
+      "al-q-002242"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-238",
+    "title": "RAG项目学习案例238",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003078",
+      "al-q-002024",
+      "al-q-000876"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-239",
+    "title": "错题复盘Prompt案例239",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001698",
+      "al-q-000786",
+      "al-q-000117"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-240",
+    "title": "学习计划Prompt案例240",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000457",
+      "al-q-001060",
+      "al-q-001748"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-241",
+    "title": "知识卡片生成案例241",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002254",
+      "al-q-002049",
+      "al-q-001144"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-242",
+    "title": "AI笔记整理案例242",
+    "description": "通过AI笔记整理掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000579",
+      "al-q-002411",
+      "al-q-000915"
+    ],
+    "tags": [
+      "AI笔记整理"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-243",
+    "title": "事实核查案例243",
+    "description": "通过事实核查掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000966",
+      "al-q-002946",
+      "al-q-002731"
+    ],
+    "tags": [
+      "事实核查"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-244",
+    "title": "幻觉识别案例244",
+    "description": "通过幻觉识别掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001429",
+      "al-q-001854",
+      "al-q-001116"
+    ],
+    "tags": [
+      "幻觉识别"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-245",
+    "title": "学术诚信案例245",
+    "description": "通过学术诚信掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001301",
+      "al-q-001172",
+      "al-q-000852"
+    ],
+    "tags": [
+      "学术诚信"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-246",
+    "title": "AI依赖修正案例246",
+    "description": "通过AI依赖修正掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002820",
+      "al-q-002923",
+      "al-q-002843"
+    ],
+    "tags": [
+      "AI依赖修正"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-247",
+    "title": "个人AI工作流案例247",
+    "description": "通过个人AI工作流掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000575",
+      "al-q-001884",
+      "al-q-001666"
+    ],
+    "tags": [
+      "个人AI工作流"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-248",
+    "title": "高数概念案例248",
+    "description": "通过高数概念掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001043",
+      "al-q-002695",
+      "al-q-000113"
+    ],
+    "tags": [
+      "高数概念"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-249",
+    "title": "英语单词案例249",
+    "description": "通过英语单词掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002552",
+      "al-q-003196",
+      "al-q-002510"
+    ],
+    "tags": [
+      "英语单词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-250",
+    "title": "C语言调试案例250",
+    "description": "通过C语言调试掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002669",
+      "al-q-002240",
+      "al-q-000544"
+    ],
+    "tags": [
+      "C语言调试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-251",
+    "title": "数字逻辑复习案例251",
+    "description": "通过数字逻辑复习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001693",
+      "al-q-003072",
+      "al-q-000584"
+    ],
+    "tags": [
+      "数字逻辑复习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-252",
+    "title": "操作系统解释案例252",
+    "description": "通过操作系统解释掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001283",
+      "al-q-001704",
+      "al-q-000841"
+    ],
+    "tags": [
+      "操作系统解释"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-253",
+    "title": "算法题提示案例253",
+    "description": "通过算法题提示掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003218",
+      "al-q-002781",
+      "al-q-000472"
+    ],
+    "tags": [
+      "算法题提示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-254",
+    "title": "Java项目拆解案例254",
+    "description": "通过Java项目拆解掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-000069",
+      "al-q-000440",
+      "al-q-002306"
+    ],
+    "tags": [
+      "Java项目拆解"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-255",
+    "title": "前端组件学习案例255",
+    "description": "通过前端组件学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001875",
+      "al-q-001503",
+      "al-q-003206"
+    ],
+    "tags": [
+      "前端组件学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-256",
+    "title": "数据分析报告案例256",
+    "description": "通过数据分析报告掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003091",
+      "al-q-001149",
+      "al-q-001364"
+    ],
+    "tags": [
+      "数据分析报告"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-257",
+    "title": "RAG项目学习案例257",
+    "description": "通过RAG项目学习掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002043",
+      "al-q-001229",
+      "al-q-001679"
+    ],
+    "tags": [
+      "RAG项目学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-258",
+    "title": "错题复盘Prompt案例258",
+    "description": "通过错题复盘Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-001371",
+      "al-q-003474",
+      "al-q-001569"
+    ],
+    "tags": [
+      "错题复盘Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-259",
+    "title": "学习计划Prompt案例259",
+    "description": "通过学习计划Prompt掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-002809",
+      "al-q-002278",
+      "al-q-000219"
+    ],
+    "tags": [
+      "学习计划Prompt"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-case-260",
+    "title": "知识卡片生成案例260",
+    "description": "通过知识卡片生成掌握AI学习",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "场景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "Prompt",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "al-q-003457",
+      "al-q-000893",
+      "al-q-000031"
+    ],
+    "tags": [
+      "知识卡片生成"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

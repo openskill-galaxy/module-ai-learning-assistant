@@ -1,0 +1,41 @@
+{
+  "id": "mod-ai-learning-assistant",
+  "slug": "module-ai-learning-assistant",
+  "title": "AI辅助学习与自动化学习工作流",
+  "subtitle": "面向学生和自学者",
+  "description": "面向学生自学者和OpenSkill Galaxy用户的AI辅助学习计划知识解释题目生成错题复盘笔记整理代码学习资料核查工作流模板幻觉识别与合规使用训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "AI学习",
+    "Prompt",
+    "学习助手",
+    "错题复盘",
+    "知识管理",
+    "自动化学习",
+    "事实核查",
+    "学习工作流"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "🤖",
+  "repoUrl": "https://github.com/openskill-galaxy/module-ai-learning-assistant",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 162
+  }
+}

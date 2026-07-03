@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "al-glossary-001",
+    "term": "AI辅助学习",
+    "definition": "AI辅助学习说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-002",
+    "term": "Prompt",
+    "definition": "Prompt说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-003",
+    "term": "知识解释",
+    "definition": "知识解释说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-004",
+    "term": "错题复盘",
+    "definition": "错题复盘说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-005",
+    "term": "笔记整理",
+    "definition": "笔记整理说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-006",
+    "term": "编程辅助",
+    "definition": "编程辅助说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-007",
+    "term": "事实核查",
+    "definition": "事实核查说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-008",
+    "term": "工作流",
+    "definition": "工作流说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-009",
+    "term": "幻觉",
+    "definition": "幻觉说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-010",
+    "term": "学术诚信",
+    "definition": "学术诚信说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-011",
+    "term": "隐私",
+    "definition": "隐私说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-012",
+    "term": "输出评估",
+    "definition": "输出评估说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-013",
+    "term": "学习日志",
+    "definition": "学习日志说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-014",
+    "term": "模板库",
+    "definition": "模板库说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-015",
+    "term": "自动化",
+    "definition": "自动化说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-016",
+    "term": "AIL概念15",
+    "definition": "AIL概念15说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-017",
+    "term": "AIL概念16",
+    "definition": "AIL概念16说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-018",
+    "term": "AIL概念17",
+    "definition": "AIL概念17说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-019",
+    "term": "AIL概念18",
+    "definition": "AIL概念18说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-020",
+    "term": "AIL概念19",
+    "definition": "AIL概念19说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-021",
+    "term": "AIL概念20",
+    "definition": "AIL概念20说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-022",
+    "term": "AIL概念21",
+    "definition": "AIL概念21说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-023",
+    "term": "AIL概念22",
+    "definition": "AIL概念22说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-024",
+    "term": "AIL概念23",
+    "definition": "AIL概念23说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-025",
+    "term": "AIL概念24",
+    "definition": "AIL概念24说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-026",
+    "term": "AIL概念25",
+    "definition": "AIL概念25说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-027",
+    "term": "AIL概念26",
+    "definition": "AIL概念26说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-028",
+    "term": "AIL概念27",
+    "definition": "AIL概念27说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-029",
+    "term": "AIL概念28",
+    "definition": "AIL概念28说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-030",
+    "term": "AIL概念29",
+    "definition": "AIL概念29说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-031",
+    "term": "AIL概念30",
+    "definition": "AIL概念30说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-032",
+    "term": "AIL概念31",
+    "definition": "AIL概念31说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-033",
+    "term": "AIL概念32",
+    "definition": "AIL概念32说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-034",
+    "term": "AIL概念33",
+    "definition": "AIL概念33说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-035",
+    "term": "AIL概念34",
+    "definition": "AIL概念34说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-036",
+    "term": "AIL概念35",
+    "definition": "AIL概念35说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-037",
+    "term": "AIL概念36",
+    "definition": "AIL概念36说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-038",
+    "term": "AIL概念37",
+    "definition": "AIL概念37说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-039",
+    "term": "AIL概念38",
+    "definition": "AIL概念38说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-040",
+    "term": "AIL概念39",
+    "definition": "AIL概念39说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-041",
+    "term": "AIL概念40",
+    "definition": "AIL概念40说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-042",
+    "term": "AIL概念41",
+    "definition": "AIL概念41说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-043",
+    "term": "AIL概念42",
+    "definition": "AIL概念42说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-044",
+    "term": "AIL概念43",
+    "definition": "AIL概念43说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-045",
+    "term": "AIL概念44",
+    "definition": "AIL概念44说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-046",
+    "term": "AIL概念45",
+    "definition": "AIL概念45说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-047",
+    "term": "AIL概念46",
+    "definition": "AIL概念46说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-048",
+    "term": "AIL概念47",
+    "definition": "AIL概念47说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-049",
+    "term": "AIL概念48",
+    "definition": "AIL概念48说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-050",
+    "term": "AIL概念49",
+    "definition": "AIL概念49说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-051",
+    "term": "AIL概念50",
+    "definition": "AIL概念50说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-052",
+    "term": "AIL概念51",
+    "definition": "AIL概念51说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-053",
+    "term": "AIL概念52",
+    "definition": "AIL概念52说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-054",
+    "term": "AIL概念53",
+    "definition": "AIL概念53说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-055",
+    "term": "AIL概念54",
+    "definition": "AIL概念54说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-056",
+    "term": "AIL概念55",
+    "definition": "AIL概念55说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-057",
+    "term": "AIL概念56",
+    "definition": "AIL概念56说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-058",
+    "term": "AIL概念57",
+    "definition": "AIL概念57说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-059",
+    "term": "AIL概念58",
+    "definition": "AIL概念58说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-060",
+    "term": "AIL概念59",
+    "definition": "AIL概念59说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-061",
+    "term": "AIL概念60",
+    "definition": "AIL概念60说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-062",
+    "term": "AIL概念61",
+    "definition": "AIL概念61说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-063",
+    "term": "AIL概念62",
+    "definition": "AIL概念62说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-064",
+    "term": "AIL概念63",
+    "definition": "AIL概念63说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-065",
+    "term": "AIL概念64",
+    "definition": "AIL概念64说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-066",
+    "term": "AIL概念65",
+    "definition": "AIL概念65说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-067",
+    "term": "AIL概念66",
+    "definition": "AIL概念66说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-068",
+    "term": "AIL概念67",
+    "definition": "AIL概念67说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-069",
+    "term": "AIL概念68",
+    "definition": "AIL概念68说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-070",
+    "term": "AIL概念69",
+    "definition": "AIL概念69说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-071",
+    "term": "AIL概念70",
+    "definition": "AIL概念70说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-072",
+    "term": "AIL概念71",
+    "definition": "AIL概念71说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-073",
+    "term": "AIL概念72",
+    "definition": "AIL概念72说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-074",
+    "term": "AIL概念73",
+    "definition": "AIL概念73说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-075",
+    "term": "AIL概念74",
+    "definition": "AIL概念74说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-076",
+    "term": "AIL概念75",
+    "definition": "AIL概念75说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-077",
+    "term": "AIL概念76",
+    "definition": "AIL概念76说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-078",
+    "term": "AIL概念77",
+    "definition": "AIL概念77说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-079",
+    "term": "AIL概念78",
+    "definition": "AIL概念78说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-080",
+    "term": "AIL概念79",
+    "definition": "AIL概念79说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-081",
+    "term": "AIL概念80",
+    "definition": "AIL概念80说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-082",
+    "term": "AIL概念81",
+    "definition": "AIL概念81说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-083",
+    "term": "AIL概念82",
+    "definition": "AIL概念82说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-084",
+    "term": "AIL概念83",
+    "definition": "AIL概念83说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-085",
+    "term": "AIL概念84",
+    "definition": "AIL概念84说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-086",
+    "term": "AIL概念85",
+    "definition": "AIL概念85说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-087",
+    "term": "AIL概念86",
+    "definition": "AIL概念86说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-088",
+    "term": "AIL概念87",
+    "definition": "AIL概念87说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-089",
+    "term": "AIL概念88",
+    "definition": "AIL概念88说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-090",
+    "term": "AIL概念89",
+    "definition": "AIL概念89说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-091",
+    "term": "AIL概念90",
+    "definition": "AIL概念90说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-092",
+    "term": "AIL概念91",
+    "definition": "AIL概念91说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-093",
+    "term": "AIL概念92",
+    "definition": "AIL概念92说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-094",
+    "term": "AIL概念93",
+    "definition": "AIL概念93说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-095",
+    "term": "AIL概念94",
+    "definition": "AIL概念94说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-096",
+    "term": "AIL概念95",
+    "definition": "AIL概念95说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-097",
+    "term": "AIL概念96",
+    "definition": "AIL概念96说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-098",
+    "term": "AIL概念97",
+    "definition": "AIL概念97说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-099",
+    "term": "AIL概念98",
+    "definition": "AIL概念98说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-100",
+    "term": "AIL概念99",
+    "definition": "AIL概念99说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-101",
+    "term": "AIL概念100",
+    "definition": "AIL概念100说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-102",
+    "term": "AIL概念101",
+    "definition": "AIL概念101说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-103",
+    "term": "AIL概念102",
+    "definition": "AIL概念102说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-104",
+    "term": "AIL概念103",
+    "definition": "AIL概念103说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-105",
+    "term": "AIL概念104",
+    "definition": "AIL概念104说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-106",
+    "term": "AIL概念105",
+    "definition": "AIL概念105说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-107",
+    "term": "AIL概念106",
+    "definition": "AIL概念106说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-108",
+    "term": "AIL概念107",
+    "definition": "AIL概念107说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-109",
+    "term": "AIL概念108",
+    "definition": "AIL概念108说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-110",
+    "term": "AIL概念109",
+    "definition": "AIL概念109说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-111",
+    "term": "AIL概念110",
+    "definition": "AIL概念110说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-112",
+    "term": "AIL概念111",
+    "definition": "AIL概念111说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-113",
+    "term": "AIL概念112",
+    "definition": "AIL概念112说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-114",
+    "term": "AIL概念113",
+    "definition": "AIL概念113说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-115",
+    "term": "AIL概念114",
+    "definition": "AIL概念114说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-116",
+    "term": "AIL概念115",
+    "definition": "AIL概念115说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-117",
+    "term": "AIL概念116",
+    "definition": "AIL概念116说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-118",
+    "term": "AIL概念117",
+    "definition": "AIL概念117说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-119",
+    "term": "AIL概念118",
+    "definition": "AIL概念118说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-120",
+    "term": "AIL概念119",
+    "definition": "AIL概念119说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-121",
+    "term": "AIL概念120",
+    "definition": "AIL概念120说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-122",
+    "term": "AIL概念121",
+    "definition": "AIL概念121说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-123",
+    "term": "AIL概念122",
+    "definition": "AIL概念122说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-124",
+    "term": "AIL概念123",
+    "definition": "AIL概念123说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-125",
+    "term": "AIL概念124",
+    "definition": "AIL概念124说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-126",
+    "term": "AIL概念125",
+    "definition": "AIL概念125说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-127",
+    "term": "AIL概念126",
+    "definition": "AIL概念126说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-128",
+    "term": "AIL概念127",
+    "definition": "AIL概念127说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-129",
+    "term": "AIL概念128",
+    "definition": "AIL概念128说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-130",
+    "term": "AIL概念129",
+    "definition": "AIL概念129说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-131",
+    "term": "AIL概念130",
+    "definition": "AIL概念130说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-132",
+    "term": "AIL概念131",
+    "definition": "AIL概念131说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-133",
+    "term": "AIL概念132",
+    "definition": "AIL概念132说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-134",
+    "term": "AIL概念133",
+    "definition": "AIL概念133说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-135",
+    "term": "AIL概念134",
+    "definition": "AIL概念134说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-136",
+    "term": "AIL概念135",
+    "definition": "AIL概念135说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-137",
+    "term": "AIL概念136",
+    "definition": "AIL概念136说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-138",
+    "term": "AIL概念137",
+    "definition": "AIL概念137说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-139",
+    "term": "AIL概念138",
+    "definition": "AIL概念138说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-140",
+    "term": "AIL概念139",
+    "definition": "AIL概念139说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-141",
+    "term": "AIL概念140",
+    "definition": "AIL概念140说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-142",
+    "term": "AIL概念141",
+    "definition": "AIL概念141说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-143",
+    "term": "AIL概念142",
+    "definition": "AIL概念142说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-144",
+    "term": "AIL概念143",
+    "definition": "AIL概念143说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-145",
+    "term": "AIL概念144",
+    "definition": "AIL概念144说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-146",
+    "term": "AIL概念145",
+    "definition": "AIL概念145说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-147",
+    "term": "AIL概念146",
+    "definition": "AIL概念146说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-148",
+    "term": "AIL概念147",
+    "definition": "AIL概念147说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-149",
+    "term": "AIL概念148",
+    "definition": "AIL概念148说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-150",
+    "term": "AIL概念149",
+    "definition": "AIL概念149说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-151",
+    "term": "AIL概念150",
+    "definition": "AIL概念150说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-152",
+    "term": "AIL概念151",
+    "definition": "AIL概念151说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-153",
+    "term": "AIL概念152",
+    "definition": "AIL概念152说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-154",
+    "term": "AIL概念153",
+    "definition": "AIL概念153说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-155",
+    "term": "AIL概念154",
+    "definition": "AIL概念154说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-156",
+    "term": "AIL概念155",
+    "definition": "AIL概念155说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-157",
+    "term": "AIL概念156",
+    "definition": "AIL概念156说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-158",
+    "term": "AIL概念157",
+    "definition": "AIL概念157说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-159",
+    "term": "AIL概念158",
+    "definition": "AIL概念158说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-160",
+    "term": "AIL概念159",
+    "definition": "AIL概念159说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-161",
+    "term": "AIL概念160",
+    "definition": "AIL概念160说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-162",
+    "term": "AIL概念161",
+    "definition": "AIL概念161说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-163",
+    "term": "AIL概念162",
+    "definition": "AIL概念162说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-164",
+    "term": "AIL概念163",
+    "definition": "AIL概念163说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-165",
+    "term": "AIL概念164",
+    "definition": "AIL概念164说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-166",
+    "term": "AIL概念165",
+    "definition": "AIL概念165说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-167",
+    "term": "AIL概念166",
+    "definition": "AIL概念166说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-168",
+    "term": "AIL概念167",
+    "definition": "AIL概念167说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-169",
+    "term": "AIL概念168",
+    "definition": "AIL概念168说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-170",
+    "term": "AIL概念169",
+    "definition": "AIL概念169说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-171",
+    "term": "AIL概念170",
+    "definition": "AIL概念170说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-172",
+    "term": "AIL概念171",
+    "definition": "AIL概念171说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-173",
+    "term": "AIL概念172",
+    "definition": "AIL概念172说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-174",
+    "term": "AIL概念173",
+    "definition": "AIL概念173说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-175",
+    "term": "AIL概念174",
+    "definition": "AIL概念174说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-176",
+    "term": "AIL概念175",
+    "definition": "AIL概念175说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-177",
+    "term": "AIL概念176",
+    "definition": "AIL概念176说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-178",
+    "term": "AIL概念177",
+    "definition": "AIL概念177说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-179",
+    "term": "AIL概念178",
+    "definition": "AIL概念178说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-180",
+    "term": "AIL概念179",
+    "definition": "AIL概念179说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-181",
+    "term": "AIL概念180",
+    "definition": "AIL概念180说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-182",
+    "term": "AIL概念181",
+    "definition": "AIL概念181说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-183",
+    "term": "AIL概念182",
+    "definition": "AIL概念182说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-184",
+    "term": "AIL概念183",
+    "definition": "AIL概念183说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-185",
+    "term": "AIL概念184",
+    "definition": "AIL概念184说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-186",
+    "term": "AIL概念185",
+    "definition": "AIL概念185说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-187",
+    "term": "AIL概念186",
+    "definition": "AIL概念186说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-188",
+    "term": "AIL概念187",
+    "definition": "AIL概念187说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-189",
+    "term": "AIL概念188",
+    "definition": "AIL概念188说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-190",
+    "term": "AIL概念189",
+    "definition": "AIL概念189说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-191",
+    "term": "AIL概念190",
+    "definition": "AIL概念190说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-192",
+    "term": "AIL概念191",
+    "definition": "AIL概念191说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-193",
+    "term": "AIL概念192",
+    "definition": "AIL概念192说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-194",
+    "term": "AIL概念193",
+    "definition": "AIL概念193说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-195",
+    "term": "AIL概念194",
+    "definition": "AIL概念194说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-196",
+    "term": "AIL概念195",
+    "definition": "AIL概念195说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-197",
+    "term": "AIL概念196",
+    "definition": "AIL概念196说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-198",
+    "term": "AIL概念197",
+    "definition": "AIL概念197说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-199",
+    "term": "AIL概念198",
+    "definition": "AIL概念198说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-200",
+    "term": "AIL概念199",
+    "definition": "AIL概念199说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-201",
+    "term": "AIL概念200",
+    "definition": "AIL概念200说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-202",
+    "term": "AIL概念201",
+    "definition": "AIL概念201说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-203",
+    "term": "AIL概念202",
+    "definition": "AIL概念202说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-204",
+    "term": "AIL概念203",
+    "definition": "AIL概念203说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-205",
+    "term": "AIL概念204",
+    "definition": "AIL概念204说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-206",
+    "term": "AIL概念205",
+    "definition": "AIL概念205说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-207",
+    "term": "AIL概念206",
+    "definition": "AIL概念206说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-208",
+    "term": "AIL概念207",
+    "definition": "AIL概念207说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-209",
+    "term": "AIL概念208",
+    "definition": "AIL概念208说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-210",
+    "term": "AIL概念209",
+    "definition": "AIL概念209说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-211",
+    "term": "AIL概念210",
+    "definition": "AIL概念210说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-212",
+    "term": "AIL概念211",
+    "definition": "AIL概念211说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-213",
+    "term": "AIL概念212",
+    "definition": "AIL概念212说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-214",
+    "term": "AIL概念213",
+    "definition": "AIL概念213说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-215",
+    "term": "AIL概念214",
+    "definition": "AIL概念214说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-216",
+    "term": "AIL概念215",
+    "definition": "AIL概念215说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-217",
+    "term": "AIL概念216",
+    "definition": "AIL概念216说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-218",
+    "term": "AIL概念217",
+    "definition": "AIL概念217说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-219",
+    "term": "AIL概念218",
+    "definition": "AIL概念218说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-220",
+    "term": "AIL概念219",
+    "definition": "AIL概念219说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-221",
+    "term": "AIL概念220",
+    "definition": "AIL概念220说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-222",
+    "term": "AIL概念221",
+    "definition": "AIL概念221说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-223",
+    "term": "AIL概念222",
+    "definition": "AIL概念222说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-224",
+    "term": "AIL概念223",
+    "definition": "AIL概念223说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-225",
+    "term": "AIL概念224",
+    "definition": "AIL概念224说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-226",
+    "term": "AIL概念225",
+    "definition": "AIL概念225说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-227",
+    "term": "AIL概念226",
+    "definition": "AIL概念226说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-228",
+    "term": "AIL概念227",
+    "definition": "AIL概念227说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-229",
+    "term": "AIL概念228",
+    "definition": "AIL概念228说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-230",
+    "term": "AIL概念229",
+    "definition": "AIL概念229说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-231",
+    "term": "AIL概念230",
+    "definition": "AIL概念230说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-232",
+    "term": "AIL概念231",
+    "definition": "AIL概念231说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-233",
+    "term": "AIL概念232",
+    "definition": "AIL概念232说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-234",
+    "term": "AIL概念233",
+    "definition": "AIL概念233说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-235",
+    "term": "AIL概念234",
+    "definition": "AIL概念234说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-236",
+    "term": "AIL概念235",
+    "definition": "AIL概念235说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-237",
+    "term": "AIL概念236",
+    "definition": "AIL概念236说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-238",
+    "term": "AIL概念237",
+    "definition": "AIL概念237说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-239",
+    "term": "AIL概念238",
+    "definition": "AIL概念238说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-240",
+    "term": "AIL概念239",
+    "definition": "AIL概念239说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-241",
+    "term": "AIL概念240",
+    "definition": "AIL概念240说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-242",
+    "term": "AIL概念241",
+    "definition": "AIL概念241说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-243",
+    "term": "AIL概念242",
+    "definition": "AIL概念242说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-244",
+    "term": "AIL概念243",
+    "definition": "AIL概念243说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-245",
+    "term": "AIL概念244",
+    "definition": "AIL概念244说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-246",
+    "term": "AIL概念245",
+    "definition": "AIL概念245说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-247",
+    "term": "AIL概念246",
+    "definition": "AIL概念246说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-248",
+    "term": "AIL概念247",
+    "definition": "AIL概念247说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-249",
+    "term": "AIL概念248",
+    "definition": "AIL概念248说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-250",
+    "term": "AIL概念249",
+    "definition": "AIL概念249说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-251",
+    "term": "AIL概念250",
+    "definition": "AIL概念250说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-252",
+    "term": "AIL概念251",
+    "definition": "AIL概念251说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-253",
+    "term": "AIL概念252",
+    "definition": "AIL概念252说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-254",
+    "term": "AIL概念253",
+    "definition": "AIL概念253说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-255",
+    "term": "AIL概念254",
+    "definition": "AIL概念254说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-256",
+    "term": "AIL概念255",
+    "definition": "AIL概念255说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-257",
+    "term": "AIL概念256",
+    "definition": "AIL概念256说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-258",
+    "term": "AIL概念257",
+    "definition": "AIL概念257说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-259",
+    "term": "AIL概念258",
+    "definition": "AIL概念258说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-260",
+    "term": "AIL概念259",
+    "definition": "AIL概念259说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-261",
+    "term": "AIL概念260",
+    "definition": "AIL概念260说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-262",
+    "term": "AIL概念261",
+    "definition": "AIL概念261说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-263",
+    "term": "AIL概念262",
+    "definition": "AIL概念262说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-264",
+    "term": "AIL概念263",
+    "definition": "AIL概念263说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-265",
+    "term": "AIL概念264",
+    "definition": "AIL概念264说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-266",
+    "term": "AIL概念265",
+    "definition": "AIL概念265说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-267",
+    "term": "AIL概念266",
+    "definition": "AIL概念266说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-268",
+    "term": "AIL概念267",
+    "definition": "AIL概念267说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-269",
+    "term": "AIL概念268",
+    "definition": "AIL概念268说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-270",
+    "term": "AIL概念269",
+    "definition": "AIL概念269说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-271",
+    "term": "AIL概念270",
+    "definition": "AIL概念270说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-272",
+    "term": "AIL概念271",
+    "definition": "AIL概念271说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-273",
+    "term": "AIL概念272",
+    "definition": "AIL概念272说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-274",
+    "term": "AIL概念273",
+    "definition": "AIL概念273说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-275",
+    "term": "AIL概念274",
+    "definition": "AIL概念274说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-276",
+    "term": "AIL概念275",
+    "definition": "AIL概念275说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-277",
+    "term": "AIL概念276",
+    "definition": "AIL概念276说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-278",
+    "term": "AIL概念277",
+    "definition": "AIL概念277说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-279",
+    "term": "AIL概念278",
+    "definition": "AIL概念278说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-280",
+    "term": "AIL概念279",
+    "definition": "AIL概念279说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-281",
+    "term": "AIL概念280",
+    "definition": "AIL概念280说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-282",
+    "term": "AIL概念281",
+    "definition": "AIL概念281说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-283",
+    "term": "AIL概念282",
+    "definition": "AIL概念282说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-284",
+    "term": "AIL概念283",
+    "definition": "AIL概念283说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-285",
+    "term": "AIL概念284",
+    "definition": "AIL概念284说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-286",
+    "term": "AIL概念285",
+    "definition": "AIL概念285说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-287",
+    "term": "AIL概念286",
+    "definition": "AIL概念286说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-288",
+    "term": "AIL概念287",
+    "definition": "AIL概念287说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-289",
+    "term": "AIL概念288",
+    "definition": "AIL概念288说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-290",
+    "term": "AIL概念289",
+    "definition": "AIL概念289说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-291",
+    "term": "AIL概念290",
+    "definition": "AIL概念290说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-292",
+    "term": "AIL概念291",
+    "definition": "AIL概念291说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-293",
+    "term": "AIL概念292",
+    "definition": "AIL概念292说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-294",
+    "term": "AIL概念293",
+    "definition": "AIL概念293说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-295",
+    "term": "AIL概念294",
+    "definition": "AIL概念294说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-296",
+    "term": "AIL概念295",
+    "definition": "AIL概念295说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-297",
+    "term": "AIL概念296",
+    "definition": "AIL概念296说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-298",
+    "term": "AIL概念297",
+    "definition": "AIL概念297说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-299",
+    "term": "AIL概念298",
+    "definition": "AIL概念298说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-300",
+    "term": "AIL概念299",
+    "definition": "AIL概念299说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-301",
+    "term": "AIL概念300",
+    "definition": "AIL概念300说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-302",
+    "term": "AIL概念301",
+    "definition": "AIL概念301说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-303",
+    "term": "AIL概念302",
+    "definition": "AIL概念302说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-304",
+    "term": "AIL概念303",
+    "definition": "AIL概念303说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-305",
+    "term": "AIL概念304",
+    "definition": "AIL概念304说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-306",
+    "term": "AIL概念305",
+    "definition": "AIL概念305说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-307",
+    "term": "AIL概念306",
+    "definition": "AIL概念306说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-308",
+    "term": "AIL概念307",
+    "definition": "AIL概念307说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-309",
+    "term": "AIL概念308",
+    "definition": "AIL概念308说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-310",
+    "term": "AIL概念309",
+    "definition": "AIL概念309说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-311",
+    "term": "AIL概念310",
+    "definition": "AIL概念310说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-312",
+    "term": "AIL概念311",
+    "definition": "AIL概念311说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-313",
+    "term": "AIL概念312",
+    "definition": "AIL概念312说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-314",
+    "term": "AIL概念313",
+    "definition": "AIL概念313说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-315",
+    "term": "AIL概念314",
+    "definition": "AIL概念314说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-316",
+    "term": "AIL概念315",
+    "definition": "AIL概念315说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-317",
+    "term": "AIL概念316",
+    "definition": "AIL概念316说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-318",
+    "term": "AIL概念317",
+    "definition": "AIL概念317说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-319",
+    "term": "AIL概念318",
+    "definition": "AIL概念318说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-320",
+    "term": "AIL概念319",
+    "definition": "AIL概念319说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-321",
+    "term": "AIL概念320",
+    "definition": "AIL概念320说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-322",
+    "term": "AIL概念321",
+    "definition": "AIL概念321说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-323",
+    "term": "AIL概念322",
+    "definition": "AIL概念322说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-324",
+    "term": "AIL概念323",
+    "definition": "AIL概念323说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-325",
+    "term": "AIL概念324",
+    "definition": "AIL概念324说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-326",
+    "term": "AIL概念325",
+    "definition": "AIL概念325说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-327",
+    "term": "AIL概念326",
+    "definition": "AIL概念326说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-328",
+    "term": "AIL概念327",
+    "definition": "AIL概念327说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-329",
+    "term": "AIL概念328",
+    "definition": "AIL概念328说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-330",
+    "term": "AIL概念329",
+    "definition": "AIL概念329说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-331",
+    "term": "AIL概念330",
+    "definition": "AIL概念330说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-332",
+    "term": "AIL概念331",
+    "definition": "AIL概念331说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-333",
+    "term": "AIL概念332",
+    "definition": "AIL概念332说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-334",
+    "term": "AIL概念333",
+    "definition": "AIL概念333说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-335",
+    "term": "AIL概念334",
+    "definition": "AIL概念334说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-336",
+    "term": "AIL概念335",
+    "definition": "AIL概念335说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-337",
+    "term": "AIL概念336",
+    "definition": "AIL概念336说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-338",
+    "term": "AIL概念337",
+    "definition": "AIL概念337说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-339",
+    "term": "AIL概念338",
+    "definition": "AIL概念338说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-340",
+    "term": "AIL概念339",
+    "definition": "AIL概念339说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-341",
+    "term": "AIL概念340",
+    "definition": "AIL概念340说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-342",
+    "term": "AIL概念341",
+    "definition": "AIL概念341说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-343",
+    "term": "AIL概念342",
+    "definition": "AIL概念342说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-344",
+    "term": "AIL概念343",
+    "definition": "AIL概念343说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-345",
+    "term": "AIL概念344",
+    "definition": "AIL概念344说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-346",
+    "term": "AIL概念345",
+    "definition": "AIL概念345说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-347",
+    "term": "AIL概念346",
+    "definition": "AIL概念346说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-348",
+    "term": "AIL概念347",
+    "definition": "AIL概念347说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-349",
+    "term": "AIL概念348",
+    "definition": "AIL概念348说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-350",
+    "term": "AIL概念349",
+    "definition": "AIL概念349说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-351",
+    "term": "AIL概念350",
+    "definition": "AIL概念350说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-352",
+    "term": "AIL概念351",
+    "definition": "AIL概念351说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-353",
+    "term": "AIL概念352",
+    "definition": "AIL概念352说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-354",
+    "term": "AIL概念353",
+    "definition": "AIL概念353说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-355",
+    "term": "AIL概念354",
+    "definition": "AIL概念354说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-356",
+    "term": "AIL概念355",
+    "definition": "AIL概念355说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-357",
+    "term": "AIL概念356",
+    "definition": "AIL概念356说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-358",
+    "term": "AIL概念357",
+    "definition": "AIL概念357说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-359",
+    "term": "AIL概念358",
+    "definition": "AIL概念358说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "al-glossary-360",
+    "term": "AIL概念359",
+    "definition": "AIL概念359说明",
+    "category": "AILearn",
+    "tags": [
+      "AILearn"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
