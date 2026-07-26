@@ -1,146 +1,772 @@
 [
   {
     "id": "mod-ai-learning-assistant-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [AI辅助学习与自动化学习工作流] 的过程里，关于“系统级 Prompt 设计准则”的核心考点，以下表述最为准确的是？",
+    "stem": "在提示词工程中，“Few-shot Prompting（少样本提示）”指的是以下哪种做法？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "在提示词中提供若干输入-输出示例，让模型模仿示例的格式和逻辑完成新任务"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "把提示词写得尽量简短，只用几个单词描述任务"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "对模型进行小规模的参数微调，使其适应特定领域"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "多次重复发送同一个问题，取多次回答中的多数结果"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“系统级 Prompt 设计准则”的正确答案为 A。解析：在 AI辅助学习与自动化学习工作流 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Few-shot Prompting 是指在提示词中嵌入少量（通常 1-5 个）任务示例（demonstrations），利用大模型的上下文学习（in-context learning）能力，让它模仿示例完成新输入，故选 A。B 描述的是简短提示，与 few-shot 无关；C 是模型微调（fine-tuning），会改变模型参数，而 few-shot 不改变参数；D 类似自洽性投票（self-consistency），是另一种技术。",
     "tags": [
-      "AI辅助学习与自动化学习工作流",
-      "基础考点"
+      "提示词工程",
+      "Few-shot"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-ai-learning-assistant-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [AI辅助学习与自动化学习工作流] 的过程里，关于“思维链 (Chain of Thought) 实践”的核心考点，以下表述最为准确的是？",
+    "stem": "检索增强生成（RAG）系统的核心工作流程是以下哪一项？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "将用户问题向量化 → 在向量库中检索相关文档片段 → 将片段拼入提示词 → 由大模型基于上下文生成回答"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "用用户的全部历史提问重新训练大模型，再由新模型直接回答"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "让大模型先生成答案，再把答案发给搜索引擎验证并自动改写"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "把整个知识库全文直接放进每一次请求的提示词中"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“思维链 (Chain of Thought) 实践”的正确答案为 A。解析：在 AI辅助学习与自动化学习工作流 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "RAG 的标准流程是“检索在前、生成在后”：先将查询嵌入为向量，在向量数据库中做相似度检索召回最相关的文档片段（chunks），再把这些片段作为上下文注入提示词，最后由大模型生成有依据的回答，故选 A。B 是再训练，成本极高且不属于 RAG；C 颠倒了检索与生成的顺序；D 受上下文窗口长度限制通常不可行，也正是 RAG 要解决的问题。",
     "tags": [
-      "AI辅助学习与自动化学习工作流",
-      "基础考点"
+      "RAG",
+      "向量检索"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-ai-learning-assistant-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [AI辅助学习与自动化学习工作流] 的过程里，关于“文本向量化与嵌入技术”的核心考点，以下表述最为准确的是？",
+    "stem": "大语言模型的“幻觉（Hallucination）”现象指的是什么？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "模型生成看似流畅可信、但与事实不符或凭空捏造的内容"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "模型因为服务器过载而返回乱码"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "模型拒绝回答涉及敏感话题的问题"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "模型输出速度变慢、响应出现明显延迟"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“文本向量化与嵌入技术”的正确答案为 A。解析：在 AI辅助学习与自动化学习工作流 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "幻觉指模型以自信、流畅的语言输出不真实的信息，例如编造不存在的文献、错误的日期数字、虚构的 API 用法等，其根源在于模型是按概率生成文本而非查询事实数据库，故选 A。B 是服务故障；C 是安全策略触发的拒答行为；D 是性能问题。识别幻觉、对关键信息进行事实核查，是把 AI 用于学习时最重要的素养之一。",
     "tags": [
-      "AI辅助学习与自动化学习工作流",
-      "基础考点"
+      "幻觉识别",
+      "AI素养"
     ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-ai-learning-assistant-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [AI辅助学习与自动化学习工作流] 的过程里，关于“向量数据库索引与近似检索”的核心考点，以下表述最为准确的是？",
+    "stem": "在 RAG 系统中，将长文档切分（Chunking）后再入库检索，最主要的原因是什么？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "嵌入模型和大模型的上下文长度有限，且小粒度片段的向量语义更聚焦，能提高检索精度"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "切分后文件体积变小，可以节省硬盘存储空间"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "向量数据库规定每条记录必须少于 100 个字符"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "切分的唯一目的是方便人工逐段校对文档内容"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“向量数据库索引与近似检索”的正确答案为 A。解析：在 AI辅助学习与自动化学习工作流 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Chunking 的核心动因有二：一是嵌入模型有输入长度上限、大模型有上下文窗口限制，整篇长文无法整体处理；二是整篇文档的向量会把多个主题“平均化”，语义被稀释，而适当粒度的片段语义集中，与查询的相似度计算更准确，故选 A。B 切分几乎不改变总存储量；C 没有这样的通用规定；D 人工校对不是切分的工程目的。切块大小与重叠（overlap）是 RAG 调优的关键参数。",
     "tags": [
-      "AI辅助学习与自动化学习工作流",
-      "基础考点"
+      "RAG",
+      "文档切分"
     ],
     "difficulty": "medium",
-    "chapter": "course-2",
+    "chapter": "mod-ai-learning-assistant-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-5",
+    "slug": "question-5",
+    "type": "single",
+    "stem": "思维链提示（Chain-of-Thought, CoT）最适合用于以下哪类任务？",
+    "options": [
+      {
+        "key": "A",
+        "text": "数学应用题、多步逻辑推理等需要中间推导过程的任务"
+      },
+      {
+        "key": "B",
+        "text": "简单的文本翻译，如把一句中文译成英文"
+      },
+      {
+        "key": "C",
+        "text": "压缩提示词长度以降低调用成本"
+      },
+      {
+        "key": "D",
+        "text": "生成尽可能简短的一句话摘要"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "CoT 通过引导模型“先写出推理步骤再给结论”（如加一句 Let's think step by step 或提供带推理过程的示例），显著提升多步推理任务的准确率，典型场景是数学应用题、逻辑推断、复杂决策分析，故选 A。B、D 这类直接映射型任务不需要中间步骤，CoT 收益很小；C 恰恰相反，CoT 会让输出变长、消耗更多 token。",
+    "tags": [
+      "提示词工程",
+      "思维链"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-6",
+    "slug": "question-6",
+    "type": "single",
+    "stem": "在向量检索中，衡量查询向量与文档向量相似程度最常用的指标是以下哪个？",
+    "options": [
+      {
+        "key": "A",
+        "text": "余弦相似度（Cosine Similarity）"
+      },
+      {
+        "key": "B",
+        "text": "编辑距离（Levenshtein Distance）"
+      },
+      {
+        "key": "C",
+        "text": "词频-逆文档频率（TF-IDF）本身就是一种向量间距离"
+      },
+      {
+        "key": "D",
+        "text": "哈希碰撞率（Hash Collision Rate）"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "余弦相似度通过计算两个向量夹角的余弦值（取值 -1 到 1）来衡量语义相近程度，对向量长度不敏感、只关注方向，是嵌入向量检索中最常用的相似度指标（此外还有点积、欧氏距离），故选 A。B 编辑距离衡量的是字符串的字符级差异，不适用于稠密语义向量；C TF-IDF 是一种词频加权方法，不是向量间的距离度量；D 哈希碰撞率与语义相似度无关。",
+    "tags": [
+      "RAG",
+      "向量嵌入"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "用 AI 辅助整理错题本时，以下哪种提示词写法最能产出高质量的错题复盘卡片？",
+    "options": [
+      {
+        "key": "A",
+        "text": "“你是一名耐心的学科老师。请针对下面这道我做错的题目，输出：①正确解法步骤；②我的错误原因分析（我的答案是 X）；③同类题的通用解题思路；④一道变式练习题。题目如下：……”"
+      },
+      {
+        "key": "B",
+        "text": "“帮我看看这道题。”"
+      },
+      {
+        "key": "C",
+        "text": "“把这道题的答案直接告诉我，不要任何解释。”"
+      },
+      {
+        "key": "D",
+        "text": "“这道题太难了，你觉得出题人是不是有问题？”"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "A 具备了优质提示词的四要素：角色设定（学科老师）、明确的结构化输出要求（四个编号条目）、关键上下文（我的错误答案）、具体任务材料，产出的内容可以直接作为复盘卡片归档，故选 A。B 任务模糊，模型只能泛泛而谈；C 只要答案不要解释，违背了错题复盘“搞懂错因”的目的；D 是情绪宣泄，不构成有效任务指令。",
+    "tags": [
+      "学习工作流",
+      "错题复盘"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "大语言模型 API 中的 temperature（温度）参数调高后，通常会产生什么效果？",
+    "options": [
+      {
+        "key": "A",
+        "text": "输出的随机性和多样性增加，更适合创意发散类任务"
+      },
+      {
+        "key": "B",
+        "text": "输出变得更确定、更保守，每次几乎完全一致"
+      },
+      {
+        "key": "C",
+        "text": "模型的知识截止日期被延后，能回答更新的问题"
+      },
+      {
+        "key": "D",
+        "text": "模型的上下文窗口自动扩大一倍"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "temperature 控制采样分布的平滑程度：值越高，低概率词被选中的机会越大，输出越随机、越有多样性，适合头脑风暴、写作等创意任务；值越低（趋近 0）输出越确定，适合事实问答、代码生成等要求稳定的任务，故选 A，B 描述的是调低温度的效果。C 知识截止日期由训练数据决定，与温度无关；D 上下文窗口是模型的固有属性，不受温度影响。",
+    "tags": [
+      "LLM基础",
+      "参数调优"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "让 AI 解释一个陌生概念（如“区块链”）时，哪种追问策略最符合“费曼学习法”的理念？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先让 AI 用类比向初学者解释，然后自己复述给 AI 听，请它指出复述中的错误和遗漏"
+      },
+      {
+        "key": "B",
+        "text": "让 AI 输出该概念的权威定义原文，逐字背诵下来"
+      },
+      {
+        "key": "C",
+        "text": "把 AI 的解释直接复制到笔记软件里存档，之后有空再看"
+      },
+      {
+        "key": "D",
+        "text": "连续问十个不相关的新概念，扩大知识面"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "费曼学习法的核心是“以教代学”：用自己的话向他人（或想象的初学者）解释概念，暴露理解漏洞后回头补足。让 AI 扮演听众并纠错，恰好把这一闭环自动化了——AI 先降维解释，学习者复述，AI 反馈盲点，故选 A。B 是机械记忆，无法检验真实理解；C 是“收藏即学会”的典型误区；D 广度扩张不等于深度理解。",
+    "tags": [
+      "学习方法",
+      "费曼学习法"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "在 RAG 系统中引入“重排序（Rerank）”环节的主要作用是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "对向量初筛召回的候选片段用更精细的模型重新打分排序，把最相关的片段排到前面再交给大模型"
+      },
+      {
+        "key": "B",
+        "text": "把大模型生成的回答按句子长度重新排列"
+      },
+      {
+        "key": "C",
+        "text": "定期对向量数据库做磁盘碎片整理以提高读写速度"
+      },
+      {
+        "key": "D",
+        "text": "将检索结果按文档创建时间从新到旧排序"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "向量相似度初筛（召回）速度快但精度有限，可能把弱相关片段排在前面。Rerank 使用交叉编码器（cross-encoder）等更强的模型对 query-文档对逐一精细打分，重新排序后只把最相关的 top-k 片段送入生成阶段，从而提升答案质量，是典型的“粗排+精排”两阶段架构，故选 A。B、D 都不是 rerank 的含义；C 是数据库运维操作，与检索质量无关。",
+    "tags": [
+      "RAG",
+      "重排序"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "AI 给出了一段“据某研究表明……”的论述用于你的课程论文。从学术规范角度，最正确的做法是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "要求 AI 提供该研究的具体出处，并到学术数据库或搜索引擎中核实文献真实存在且结论相符后再引用"
+      },
+      {
+        "key": "B",
+        "text": "直接把这段话粘贴进论文，因为 AI 说的一般都有依据"
+      },
+      {
+        "key": "C",
+        "text": "把这段话改写几个词后放进论文，不标任何来源"
+      },
+      {
+        "key": "D",
+        "text": "在参考文献中直接把 AI 生成的文献条目原样列出，不做核实"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "大模型会编造看似规范的文献引用（作者、期刊、年份俱全但根本不存在），这是幻觉的高发区。学术使用的底线是：任何事实性断言和引用都必须回溯到可验证的一手来源，故选 A。B 盲信 AI 违反事实核查原则；C 是变相抄袭且无出处；D 未经核实列出 AI 编造的参考文献，是学术不端的常见事故。多所高校的 AI 使用规范都明确要求作者对内容真实性负全责。",
+    "tags": [
+      "事实核查",
+      "学术规范"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "关于大语言模型的 Token（词元），以下说法正确的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Token 是模型处理文本的基本单位，一个英文单词可能被切成多个 token，中文常见为一到两个字对应一个 token"
+      },
+      {
+        "key": "B",
+        "text": "一个 token 严格等于一个单词，逐词一一对应"
+      },
+      {
+        "key": "C",
+        "text": "Token 只在计费时使用，与模型的上下文长度限制无关"
+      },
+      {
+        "key": "D",
+        "text": "中文文本不消耗 token，只有英文才计算 token"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "主流模型使用子词（subword）分词算法（如 BPE），一个长英文单词可能被拆成多个 token（如 internationalization），中文通常一到两个汉字对应一个 token，故选 A。B token 与单词不是一一对应；C 上下文窗口（如 128K）正是以 token 计数的，输入输出总 token 超限会被截断，计费也按 token；D 中文同样消耗 token，且单位文字的 token 消耗通常比英文更高。理解 token 有助于控制成本和规划长文本任务。",
+    "tags": [
+      "LLM基础",
+      "Token"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "用 AI 制定个人学习计划时，下面哪条提示词能获得最可执行的结果？",
+    "options": [
+      {
+        "key": "A",
+        "text": "“我每天可学习 2 小时，目标是 8 周后通过英语四级（当前词汇量约 2500）。请按周拆解计划，每周给出具体任务、每日时长分配和周末自测方式，输出为表格。”"
+      },
+      {
+        "key": "B",
+        "text": "“帮我制定一个学习计划。”"
+      },
+      {
+        "key": "C",
+        "text": "“我想变得更优秀，请给我一些建议。”"
+      },
+      {
+        "key": "D",
+        "text": "“列出市面上所有的英语学习方法。”"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "A 提供了完整的约束条件：可用时间（每天 2 小时）、明确目标与期限（8 周过四级）、当前水平（词汇量 2500）、输出粒度（按周拆解）和输出格式（表格），模型能据此生成直接可执行的个性化计划，故选 A。B、C 缺少目标、时间、水平等关键信息，只能得到通用模板；D 是罗列信息而非制定计划。“背景+目标+约束+输出格式”是学习规划类提示词的标准结构。",
+    "tags": [
+      "学习工作流",
+      "提示词工程"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "相比直接向大模型提问，为学习资料搭建 RAG 问答系统的最主要优势是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "回答可以基于指定资料生成并附带出处，显著减少幻觉，且无需重新训练即可更新知识"
+      },
+      {
+        "key": "B",
+        "text": "RAG 能让模型的参数量自动增大，推理能力更强"
+      },
+      {
+        "key": "C",
+        "text": "RAG 系统完全不需要调用大模型，成本为零"
+      },
+      {
+        "key": "D",
+        "text": "RAG 可以保证生成的每一句话都绝对正确，无需再核查"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "RAG 的价值在于“让模型带着资料回答”：答案锚定在检索到的文档片段上，可标注引用出处便于溯源，大幅降低幻觉；知识更新只需向向量库增删文档，无需昂贵的再训练，特别适合私有讲义、教材、笔记问答，故选 A。B RAG 不改变模型参数量；C 生成环节仍需调用大模型；D RAG 只能降低而不能根除幻觉——检索不准或模型误读片段时仍会出错，关键结论依然要核查。",
+    "tags": [
+      "RAG",
+      "知识管理"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "一条高质量的提示词（Prompt）通常包含哪些要素？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "角色设定，如“你是一位有十年经验的物理老师”"
+      },
+      {
+        "key": "B",
+        "text": "明确的任务描述和必要的背景上下文"
+      },
+      {
+        "key": "C",
+        "text": "输出格式要求，如“用 Markdown 表格输出，按难度排序”"
+      },
+      {
+        "key": "D",
+        "text": "故意使用含糊其辞的表述，给模型留出最大的自由发挥空间"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "结构化提示词的常用要素包括：角色（Role）设定引导模型的专业视角和语气；任务（Task）与上下文（Context）让模型明确做什么、基于什么信息做；格式（Format）约束保证输出可直接使用，A、B、C 均正确。D 错误：任务指令含糊会让模型自行猜测意图，输出偏离预期的概率大增——需要发散创意时也应明确说明“请发散”，而不是靠含糊表述。",
+    "tags": [
+      "提示词工程",
+      "结构化提示"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "以下哪些情形属于大语言模型的典型幻觉表现？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "为一篇论文生成了作者、期刊、年份俱全但实际不存在的参考文献"
+      },
+      {
+        "key": "B",
+        "text": "推荐了一个名称合理但在该软件库中并不存在的 API 函数"
+      },
+      {
+        "key": "C",
+        "text": "把两个真实历史事件的时间和人物张冠李戴地拼在一起"
+      },
+      {
+        "key": "D",
+        "text": "回答“我无法确定这个信息，建议你查阅官方文档核实”"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "A 是最典型的“文献幻觉”；B 是代码场景的幻觉（编造不存在的函数、参数或包名，甚至衍生出“slopsquatting”安全风险）；C 是事实混淆型幻觉，真实要素被错误组合，最具迷惑性。这三类都是模型按语言概率“编造合理内容”的结果。D 恰恰相反——承认不确定并建议核实是理想的诚实行为，不是幻觉。",
+    "tags": [
+      "幻觉识别",
+      "AI素养"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "关于在学习和作业中合规使用 AI，以下做法正确的有哪些？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "先了解学校或课程对 AI 使用的具体政策，在允许范围内使用"
+      },
+      {
+        "key": "B",
+        "text": "把 AI 用于讲解概念、生成练习题和检查思路，而不是直接代写提交的作业"
+      },
+      {
+        "key": "C",
+        "text": "课程要求声明时，如实说明 AI 在作业中的使用方式和程度"
+      },
+      {
+        "key": "D",
+        "text": "考试中偷偷使用 AI 答题，只要不被发现就没有问题"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "A 正确，不同学校、课程甚至不同作业对 AI 的允许程度差异很大，使用前先确认政策是底线；B 正确，把 AI 定位为“辅导者”而非“代笔者”，既提升学习效果又规避学术诚信风险；C 正确，透明声明是多数学术 AI 政策的核心要求。D 错误，考试作弊无论是否被发现都违反学术诚信规范，性质与传统作弊相同，且剥夺了自己检验真实水平的机会。",
+    "tags": [
+      "合规使用",
+      "学术诚信"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "一个 RAG 系统回答质量不佳（答非所问或遗漏关键信息），以下哪些是合理的排查与优化方向？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "检查文档切分策略，调整 chunk 大小和相邻片段的重叠长度"
+      },
+      {
+        "key": "B",
+        "text": "更换更强的嵌入模型，或结合关键词检索做混合检索（Hybrid Search）"
+      },
+      {
+        "key": "C",
+        "text": "调整召回数量 top-k，并增加重排序（Rerank）环节过滤弱相关片段"
+      },
+      {
+        "key": "D",
+        "text": "把温度参数调到最大，让模型在资料不足时自由发挥补全答案"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "RAG 质量问题通常先从检索链路排查：A 切分不当会把完整语义截断或让片段主题混杂；B 嵌入模型决定语义匹配的上限，混合检索能兼顾语义相似与关键词精确匹配（如专有名词、编号）；C top-k 过小会漏召回、过大会引入噪声，配合 rerank 可以精选上下文。三者都是标准优化手段。D 完全错误：调高温度会增加随机性，鼓励模型在证据不足时“自由发挥”恰恰是制造幻觉，RAG 问答场景通常应使用低温度。",
+    "tags": [
+      "RAG",
+      "系统调优"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：大语言模型在生成回答时会实时联网查询最新资料，因此它的回答永远反映当前最新的信息。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。大语言模型本身是基于截止某个日期的训练数据离线生成文本的，参数中的知识存在“知识截止日期”，默认并不联网。部分产品通过外挂搜索工具或 RAG 让模型获取新信息，但那是系统层的检索增强，而非模型本身实时联网；即使有联网能力，回答也可能出错。因此涉及时效性的信息（政策、版本号、赛果等）必须自行核实。",
+    "tags": [
+      "LLM基础",
+      "知识截止"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：在 RAG 系统中，知识库更新只需向向量数据库添加或删除文档片段的向量即可生效，不需要重新训练大语言模型。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。这是 RAG 架构的核心优势之一：知识存储在外部向量库中，与模型参数解耦。新增资料时只需切分、嵌入、入库；删除过期资料时只需移除对应向量，下一次检索立即反映最新知识库状态，而模型本身保持不变。相比之下，把新知识“训进”模型需要微调或再训练，成本高且更新周期长。",
+    "tags": [
+      "RAG",
+      "知识管理"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：向 AI 提问后如果首次回答不理想，最好的做法是立刻换一个 AI 产品，因为同一个模型对同一问题只会给出同样质量的回答。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。迭代追问（iterative prompting）是使用 AI 的基本功：可以补充上下文（“我的读者是高中生”）、细化要求（“请举两个例子”）、指出问题（“第二点不对，请基于 XX 重新分析”）或要求换角度重答，同一模型在更好的提示下往往能给出显著更优的回答；模型生成本身也带有随机性，同一问题多次回答并不相同。把首答当成模型能力上限而频繁换产品，不如先优化自己的提问。",
+    "tags": [
+      "提示词工程",
+      "迭代追问"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：使用面向公众的在线 AI 服务整理学习笔记时，可以放心粘贴包含他人身份证号、家庭住址等敏感个人信息的原始材料，因为对话内容都是私密的。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。向在线 AI 服务提交的内容会传输到服务商的服务器，部分服务在默认设置下可能将对话用于服务改进或模型训练，且存在数据泄露的潜在风险；未经授权提交他人敏感个人信息还可能违反个人信息保护相关法规。正确做法是：提交前对敏感信息脱敏（删除或用占位符替换身份证号、住址、电话等），并了解所用服务的隐私政策与数据用途设置。",
+    "tags": [
+      "合规使用",
+      "隐私保护"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "简答：在 RAG 架构中，负责把文本转换成高维稠密向量、以便进行语义相似度检索的模型，通常称为什么模型？（中英文均可）",
+    "options": [],
+    "answer": [
+      "嵌入模型|Embedding模型|Embedding Model|embedding|向量嵌入模型|文本嵌入模型|向量化模型|text embedding model"
+    ],
+    "explanation": "答案是嵌入模型（Embedding Model）。它将任意文本映射为固定维度的稠密向量（如 768 维、1536 维），语义相近的文本在向量空间中距离更近。RAG 的入库和查询两端都依赖同一个嵌入模型：文档片段入库时被嵌入并存入向量数据库，用户提问时同样先被嵌入，再通过余弦相似度等指标检索最相关片段。嵌入模型的质量直接决定检索召回的上限。",
+    "tags": [
+      "RAG",
+      "向量嵌入"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-ai-learning-assistant-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-ai-learning-assistant-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "简答：在提示词中不给任何示例、仅靠自然语言指令就让模型直接完成任务的提示方式，称为什么提示（与 Few-shot 相对）？（中英文均可）",
+    "options": [],
+    "answer": [
+      "零样本提示|Zero-shot|Zero-shot Prompting|zero shot|零样本|零样本学习|Zero-shot prompt"
+    ],
+    "explanation": "答案是零样本提示（Zero-shot Prompting）。它不提供任何示例，完全依赖模型在预训练中获得的通用能力理解并执行指令，例如直接说“把下面这段话翻译成英文”。与之相对，Few-shot 提示会附上若干输入-输出示例。实践经验：简单、常见任务优先用 zero-shot 以节省 token；当输出格式特殊或任务规则复杂、zero-shot 效果不稳定时，再升级为 few-shot 提供示例。",
+    "tags": [
+      "提示词工程",
+      "Zero-shot"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-ai-learning-assistant-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
   }
 ]

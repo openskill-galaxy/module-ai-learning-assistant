@@ -1,28 +1,62 @@
 [
   {
     "id": "mod-ai-learning-assistant-exam-1",
-    "slug": "final-exam",
-    "title": "AI辅助学习与自动化学习工作流 核心期末综合自测",
-    "summary": "全面检验您对 AI辅助学习与自动化学习工作流 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "AI学习助手 基础入门测验",
+    "summary": "覆盖 Few-shot、思维链、幻觉识别与合规使用等基础概念，适合入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-ai-learning-assistant-q-1",
       "mod-ai-learning-assistant-q-2",
       "mod-ai-learning-assistant-q-3",
-      "mod-ai-learning-assistant-q-4"
+      "mod-ai-learning-assistant-q-5",
+      "mod-ai-learning-assistant-q-15",
+      "mod-ai-learning-assistant-q-17",
+      "mod-ai-learning-assistant-q-19",
+      "mod-ai-learning-assistant-q-20"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-ai-learning-assistant-exam-2",
-    "slug": "basic-exam",
-    "title": "AI辅助学习与自动化学习工作流 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "AI学习助手 进阶强化测验",
+    "summary": "聚焦文档切分、向量检索、参数调优与学习工作流设计的进阶训练。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-ai-learning-assistant-q-1",
-      "mod-ai-learning-assistant-q-2"
+      "mod-ai-learning-assistant-q-4",
+      "mod-ai-learning-assistant-q-6",
+      "mod-ai-learning-assistant-q-7",
+      "mod-ai-learning-assistant-q-8",
+      "mod-ai-learning-assistant-q-9",
+      "mod-ai-learning-assistant-q-11",
+      "mod-ai-learning-assistant-q-12",
+      "mod-ai-learning-assistant-q-13",
+      "mod-ai-learning-assistant-q-16",
+      "mod-ai-learning-assistant-q-21"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-ai-learning-assistant-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "AI学习助手 综合模拟测验",
+    "summary": "综合考查 RAG 架构调优、重排序、隐私合规与提示词体系的整体掌握程度。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-ai-learning-assistant-q-4",
+      "mod-ai-learning-assistant-q-8",
+      "mod-ai-learning-assistant-q-10",
+      "mod-ai-learning-assistant-q-12",
+      "mod-ai-learning-assistant-q-14",
+      "mod-ai-learning-assistant-q-16",
+      "mod-ai-learning-assistant-q-18",
+      "mod-ai-learning-assistant-q-21",
+      "mod-ai-learning-assistant-q-22",
+      "mod-ai-learning-assistant-q-23",
+      "mod-ai-learning-assistant-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
