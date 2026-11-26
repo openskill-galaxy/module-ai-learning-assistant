@@ -7,29 +7,29 @@
     "steps": [
       {
         "order": 1,
-        "title": "系统级 Prompt 设计准则",
-        "description": "学习课时: 探索如何为 AI 设定精准的 System Role 与约束规则。",
+        "title": "用示例与约束描述学习任务",
+        "description": "研习主题包括提示词工程、Few-shot、结构化提示。",
         "courseId": "mod-ai-learning-assistant-c-1",
         "lessonId": "mod-ai-learning-assistant-l-1"
       },
       {
         "order": 2,
-        "title": "思维链 (Chain of Thought) 实践",
-        "description": "学习课时: 引导大语言模型逐步思考，显著提升逻辑与计算题表现。",
+        "title": "发现幻觉并核查来源",
+        "description": "研习主题包括幻觉识别、AI素养、事实核查、学术规范。",
         "courseId": "mod-ai-learning-assistant-c-1",
         "lessonId": "mod-ai-learning-assistant-l-2"
       },
       {
         "order": 3,
-        "title": "文本向量化与嵌入技术",
-        "description": "学习课时: 学习使用 Embedding 模型将文本片段转为多维稠密向量。",
+        "title": "从文档切分到语义检索",
+        "description": "研习主题包括RAG、文档切分、向量嵌入。",
         "courseId": "mod-ai-learning-assistant-c-2",
         "lessonId": "mod-ai-learning-assistant-l-3"
       },
       {
         "order": 4,
-        "title": "向量数据库索引与近似检索",
-        "description": "学习课时: 了解 Milvus, Pinecone 等向量库 of HNSW 索引与 Cosine 检索实现。",
+        "title": "重排检索结果并检验回答",
+        "description": "研习主题包括RAG、重排序、系统调优。",
         "courseId": "mod-ai-learning-assistant-c-2",
         "lessonId": "mod-ai-learning-assistant-l-4"
       }
@@ -43,15 +43,15 @@
     "steps": [
       {
         "order": 1,
-        "title": "系统级 Prompt 设计准则",
-        "description": "学习课时: 探索如何为 AI 设定精准的 System Role 与约束规则。",
+        "title": "用示例与约束描述学习任务",
+        "description": "研习主题包括提示词工程、Few-shot、结构化提示。",
         "courseId": "mod-ai-learning-assistant-c-1",
         "lessonId": "mod-ai-learning-assistant-l-1"
       },
       {
         "order": 3,
-        "title": "文本向量化与嵌入技术",
-        "description": "学习课时: 学习使用 Embedding 模型将文本片段转为多维稠密向量。",
+        "title": "从文档切分到语义检索",
+        "description": "研习主题包括RAG、文档切分、向量嵌入。",
         "courseId": "mod-ai-learning-assistant-c-2",
         "lessonId": "mod-ai-learning-assistant-l-3"
       }

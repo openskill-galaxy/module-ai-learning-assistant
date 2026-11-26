@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "AI辅助学习与自动化学习",
+  "name": "OpenSkill Galaxy — AI辅助学习与自动化学习工作流",
+  "description": "面向学生自学者和OpenSkill Galaxy用户的AI辅助学习计划知识解释题目生成错题复盘笔记整理代码学习资料核查工作流模板幻觉识别与合规使用训练。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-ai-learning-assistant/",
+  "scope": "/module-ai-learning-assistant/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }

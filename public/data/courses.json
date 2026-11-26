@@ -1,48 +1,44 @@
 [
   {
     "id": "mod-ai-learning-assistant-c-1",
-    "title": "提示词工程与 LLM 基础",
+    "title": "用示例与约束描述学习任务 / 发现幻觉并核查来源",
     "slug": "course-1",
-    "summary": "学习提示词设计原则、Few-shot 技巧以及思维链 (CoT) 激发方法。",
+    "summary": "例题研习覆盖提示词工程、Few-shot、结构化提示、幻觉识别、AI素养、事实核查、学术规范。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 70,
+    "estimatedHours": 0.3,
     "lessons": [
       "mod-ai-learning-assistant-l-1",
       "mod-ai-learning-assistant-l-2"
     ],
     "tags": [
-      "AI学习",
-      "Prompt",
-      "学习助手",
-      "错题复盘",
-      "知识管理",
-      "自动化学习",
+      "提示词工程",
+      "Few-shot",
+      "结构化提示",
+      "幻觉识别",
+      "AI素养",
       "事实核查",
-      "学习工作流"
+      "学术规范"
     ]
   },
   {
     "id": "mod-ai-learning-assistant-c-2",
-    "title": "检索增强生成 (RAG) 体系架构",
+    "title": "从文档切分到语义检索 / 重排检索结果并检验回答",
     "slug": "course-2",
-    "summary": "深入探索向量嵌入、相似度检索以及大模型上下文融合召回技术。",
+    "summary": "例题研习覆盖RAG、文档切分、向量嵌入、重排序、系统调优。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 70,
+    "estimatedHours": 0.5,
     "lessons": [
       "mod-ai-learning-assistant-l-3",
       "mod-ai-learning-assistant-l-4"
     ],
     "tags": [
-      "AI学习",
-      "Prompt",
-      "学习助手",
-      "错题复盘",
-      "知识管理",
-      "自动化学习",
-      "事实核查",
-      "学习工作流"
+      "RAG",
+      "文档切分",
+      "向量嵌入",
+      "重排序",
+      "系统调优"
     ]
   }
 ]
